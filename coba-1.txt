@@ -7,3 +7,7 @@ lidya aja
 lidgak
 
 workshop
+
+git master
+
+ini workshop
